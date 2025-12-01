@@ -75,5 +75,7 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raziel206&layout=compact&theme=dark" alt="Top languages used by Raziel206"/></p>
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raziel206&show_icons=true&theme=dark" alt="GitHub stats for Raziel206"/></p>
 <p><img align="center" src="https://streak-stats.demolab.com/?user=Raziel206&theme=dark" alt="GitHub Streak stats for Raziel206" /></p>
+<p><img  align="center" src="https://raw.githubusercontent.com/Raziel206/Raziel206/output/snake.svg" alt="Snake animation"/></p>
+
 
 
