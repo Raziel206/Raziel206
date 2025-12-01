@@ -2,7 +2,7 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,17 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clone repo
+      - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true 
 
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Raziel206
-          outputs: dist/snake.svg
+          outputs: output/snake.svg 
 
-      - name: Upload to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+      - name: Commit and push snake animation
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add output/snake.svg
+          git commit -m "Update Snake animation" || echo "No changes to commit"
+          git push
