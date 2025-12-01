@@ -72,6 +72,8 @@
 ![Git](https://img.shields.io/badge/Git-FF6C37?style=flat&logo=Git&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-FF0000?style=flat&logo=OpenCV&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raziel206&show_icons=true&locale=en&layout=compact" alt="Raziel206's stats" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raziel206&show_icons=true&locale=en" alt="Raziel206's stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raziel206&" alt="Raziel206's streak stats" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raziel206&layout=compact&theme=dark" alt="Top languages used by Raziel206"/></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raziel206&show_icons=true&theme=dark" alt="GitHub stats for Raziel206"/></p>
+![GitHub Streak stats for Raziel206](https://git.io/streak-stats.demolab.com?user=Raziel206&theme=dark)
+
+
