@@ -13,13 +13,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          persist-credentials: true 
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Raziel206
-          outputs: output/snake.svg 
+          outputs: output/snake.svg
 
       - name: Commit and push snake animation
         run: |
