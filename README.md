@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Raziel206" alt="Raziel206" /></a> </p>
 
-- 👨‍💻 All of my animation projects are available at [Repositories](https://github.com/Raziel206?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Raziel206?tab=repositories)
 
 - 📫 How to reach me **chatterjeedevayudh.2006@gmail.com**
 
