@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devayudh Chatterjee, Welcome to my profile :)</h1>
 <h3 align="center">A dedicated Full-Stack (MERN) Developer 💻 skilled in building performant apps ⚡, designing intuitive interfaces 🎨, and creating animations 🌀—proficient in Python 🐍, Java ☕, and C++ ⚙️.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raziel206&label=Profile%20views&color=0e75b6&style=flat" alt="Raziel206" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raziel206&label=Profile%20views&color=0e75b6&style=flat" alt="Raziel206" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Raziel206" alt="Raziel206" /></a> </p>
 
