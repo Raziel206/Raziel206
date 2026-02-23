@@ -76,8 +76,12 @@
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raziel206&layout=compact&theme=dark" alt="Top languages used by Raziel206"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raziel206&theme=radical&ring=FE8300&fire=FD5400&currStreakNum=FDBC00&sideNums=32cd32&sideLabels=ffa500&dates=adff2f&currStreakLabel=FF0061" alt="raziel206"/>
 </p>
-<!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=Raziel206&theme=dark" alt="GitHub Streak stats for Raziel206" /></p>-->
-<p align="center"><img src="https://raw.githubusercontent.com/Raziel206/Raziel206/main/output/snake.svg" alt="Snake animation"/></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
