@@ -1,26 +1,61 @@
 <h1 align="center">Hi 👋, I'm Devayudh Chatterjee, Welcome to my profile :)</h1>
-<h3 align="center">A dedicated Full-Stack (MERN) Developer 💻 skilled in building performant apps ⚡, designing intuitive interfaces 🎨, and creating animations 🌀—proficient in Python 🐍, Java ☕, and C++ ⚙️.</h3>
+<h3 align="center">
+A dedicated Full-Stack (MERN) Developer 💻 skilled in building performant apps ⚡, 
+designing intuitive interfaces 🎨, and creating animations 🌀 — proficient in Python 🐍, Java ☕, and C++ ⚙️.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raziel206&label=Profile%20views&color=0e75b6&style=flat" alt="Raziel206" /> </p>
-
-<p align="center"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Raziel206&theme=onedark&row=1&column=7" /></p>
-
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Raziel206?tab=repositories)
-
-- 📫 How to reach me **chatterjeedevayudh.2006@gmail.com**
-
-- 📄 Know about my experiences [Link Tree](https://linktr.ee/_raziel_206)
-
-- ⚡ Fun fact **I am a fast learner**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_raziel_206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_raziel_206" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Archangel_Raziel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Archangel_Raziel" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/raziel206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/raziel206" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Raziel206&label=Profile%20views&color=0e75b6&style=flat" alt="Raziel206" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=Raziel206&theme=onedark&row=1&column=7" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=Raziel206&theme=flat&row=1&column=7" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="https://github-profile-trophy.screw-hand.vercel.app/?username=Raziel206&theme=flat&row=1&column=7" 
+      width="100%" 
+      style="max-width: 900px;" 
+    />
+  </picture>
+</p>
+
+---
+
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Raziel206?tab=repositories)  
+- 📫 How to reach me: **chatterjeedevayudh.2006@gmail.com**  
+- 📄 Know about my experiences: [Link Tree](https://linktr.ee/_raziel_206)  
+- ⚡ Fun fact: **I am a fast learner**
+
+---
+
+## 🤝 Connect with me
+
+<p align="left">
+<a href="https://instagram.com/_raziel_206" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/Archangel_Raziel" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/raziel206" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠 Languages and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -36,53 +71,91 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
-![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF6C37?style=flat&logo=Git&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-FF0000?style=flat&logo=OpenCV&logoColor=white)
 
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raziel206&show_icons=true&theme=dark" alt="GitHub stats for Raziel206"/></p>
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raziel206&layout=compact&theme=dark" alt="Top languages used by Raziel206"/></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raziel206&theme=radical&ring=FE8300&fire=FD5400&currStreakNum=FDBC00&sideNums=32cd32&sideLabels=ffa500&dates=adff2f&currStreakLabel=FF0061" alt="raziel206"/>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Raziel206&show_icons=true&theme=dark" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Raziel206&show_icons=true&theme=default" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raziel206&show_icons=true&theme=default" 
+      width="100%" 
+      style="max-width: 600px;" 
+    />
+  </picture>
 </p>
 
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raziel206&layout=compact&theme=dark" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raziel206&layout=compact&theme=default" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raziel206&layout=compact&theme=default" 
+      width="100%" 
+      style="max-width: 500px;" 
+    />
+  </picture>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=raziel206&theme=radical" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=raziel206&theme=default" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=raziel206&theme=default" 
+      width="100%" 
+      style="max-width: 600px;" 
+    />
+  </picture>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="output/github-contribution-grid-snake.svg" width="100%" style="max-width: 900px;" />
 </picture>
-
-
-
-
+</p>
