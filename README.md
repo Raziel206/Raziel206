@@ -109,24 +109,45 @@ designing intuitive interfaces 🎨, and creating animations 🌀 — proficient
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Raziel206&show_icons=true&theme=dark" 
-      media="(prefers-color-scheme: dark)" 
-    />
-    <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Raziel206&show_icons=true&theme=default" 
-      media="(prefers-color-scheme: light)" 
-    />
-    <img 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raziel206&show_icons=true&theme=default" 
-      width="100%" 
-      style="max-width: 600px;" 
-    />
-  </picture>
+  <table>
+    <tr>
+      <td align="center">
+        <picture>
+          <source 
+            srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Raziel206&show_icons=true&theme=dark" 
+            media="(prefers-color-scheme: dark)" 
+          />
+          <source 
+            srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Raziel206&show_icons=true&theme=default" 
+            media="(prefers-color-scheme: light)" 
+          />
+          <img 
+            src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raziel206&show_icons=true&theme=default" 
+            style="max-width: 420px; width: 100%;" 
+          />
+        </picture>
+      </td>
+      <td align="center">
+        <picture>
+          <source 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=raziel206&theme=radical" 
+            media="(prefers-color-scheme: dark)" 
+          />
+          <source 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=raziel206&theme=default" 
+            media="(prefers-color-scheme: light)" 
+          />
+          <img 
+            src="https://github-readme-streak-stats.herokuapp.com/?user=raziel206&theme=default" 
+            style="max-width: 420px; width: 100%;" 
+          />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -145,30 +166,7 @@ designing intuitive interfaces 🎨, and creating animations 🌀 — proficient
     />
     <img 
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raziel206&layout=compact&theme=default" 
-      width="100%" 
-      style="max-width: 500px;" 
-    />
-  </picture>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=raziel206&theme=radical" 
-      media="(prefers-color-scheme: dark)" 
-    />
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=raziel206&theme=default" 
-      media="(prefers-color-scheme: light)" 
-    />
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=raziel206&theme=default" 
-      width="100%" 
-      style="max-width: 600px;" 
+      style="max-width: 500px; width: 60%;" 
     />
   </picture>
 </p>
